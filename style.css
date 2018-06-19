@@ -4,3 +4,9 @@
   background-color: pink;
   font-variant: small-caps;
 }
+
+h2 {
+  font-size: 30px;
+  color: orange;
+  background-color: aqua;
+}
