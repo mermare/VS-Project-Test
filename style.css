@@ -10,3 +10,9 @@ h2 {
   color: orange;
   background-color: aqua;
 }
+
+.list {
+  font-size: 18px;
+  color: #1a258a;
+  background-color: #917bf1;
+}
